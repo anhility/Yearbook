@@ -1,0 +1,14 @@
+## Interface: 70300
+## Title: Yearbook
+## Notes: Automatically takes screenshots from various game events.
+## Author: Anhility @ Ravencrest-EU
+## Version: @project-version@
+## SavedVariables: YearbookConfig
+## SavedVariablesPerCharacter: YearbookCharConfig
+
+Libs\Libs.xml
+Locales\Locales.xml
+Include.xml
+
+#@do-not-package@
+#@end-do-not-package@
